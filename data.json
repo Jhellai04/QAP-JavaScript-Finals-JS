@@ -1,0 +1,56 @@
+[
+  {
+    "fName": "Jhailla",
+    "lName": "Sevilla",
+    "phoneNum": "709-123-4567",
+    "occupation": "Software Engineer",
+    "jobDescription": "IT professional who designs, develops and maintains computer software.",
+    "salary": 126000,
+    "hireDate": "2023-08-18"
+    },
+  {
+    "fName": "Jhaille",
+    "lName": "Sevilla",
+    "phoneNum": "709-987-6543",
+    "occupation": "Web Developer",
+    "jobDescription": "is incharge of ensuring websites look good and function properly.",
+    "salary": 81000,
+    "hireDate": "2023-09-05"
+    },
+  {
+    "fName": "Jhann",
+    "lName": "Sevilla",
+    "phoneNum": "709-727-4189",
+    "occupation": "Data Scientist",
+    "jobDescription": "examine which questions need answering and where to find the related data.",
+    "salary": 79000,
+    "hireDate": "2023-08-25"
+    },
+  {
+    "fName": "Jhanna",
+    "lName": "Sevilla",
+    "phoneNum": "709-345-6789",
+    "occupation": "Cloud Architect",
+    "jobDescription": "IT professional who oversees the management and maintenance of an organization's cloud computing system.",
+    "salary": 123000,
+    "hireDate": "2023-09-06"
+    },
+  {
+    "fName": "Tessie",
+    "lName": "Sevilla",
+    "phoneNum": "709-999-4444",
+    "occupation": "System Administrator",
+    "jobDescription": "is responsible for the upkeep, configuration, and operation of computer systems and servers.",
+    "salary": 96000,
+    "hireDate": "2023-09-15"
+    },
+  {
+    "fName": "Jhellai",
+    "lName": "Sevilla",
+    "phoneNum": "709-222-5555",
+    "occupation": "Database Administrator",
+    "jobDescription": "uses specialized software to store and organize data.",
+    "salary": 110000,
+    "hireDate": "2023-08-28"
+    }
+]
